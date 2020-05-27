@@ -2,6 +2,9 @@
 
 - Follow the below steps for enabling SSL in your local environment
 
+## Reading Keystore file
+- keytool -list -v -keystore server.keystore.jks
+
 ## Generating the KeyStore
 
 - The below command is to generate the **keyStore**.
